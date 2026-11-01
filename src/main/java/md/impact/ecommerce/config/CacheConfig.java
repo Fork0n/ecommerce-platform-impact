@@ -1,2 +1,4 @@
-package md.impact.ecommerce.config;public class CacheConfig {
+package md.impact.ecommerce.config;
+
+public class CacheConfig {
 }
